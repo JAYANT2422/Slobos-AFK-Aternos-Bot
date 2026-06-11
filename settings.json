@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Cyber5555.aternos.me:52252",
+    "ip": "Cyber5555.aternos.me",
     "port": 52252,
     "version": "",
     "try-creative": false
